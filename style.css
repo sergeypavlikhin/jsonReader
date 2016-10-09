@@ -1,0 +1,21 @@
+ * {
+     font-family: sans-serif;
+ }
+ 
+ output {
+     display: block;
+     border: 1px solid #eee;
+ }
+ 
+ .prop-row {
+     margin: 10px;
+ }
+ 
+ .prop-name {
+     font-weight: bold;
+     padding: 5px;
+ }
+ 
+ .prop-value {
+     padding: 5px;
+ }
